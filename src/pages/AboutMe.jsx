@@ -1,5 +1,5 @@
 import React from "react";
-import LoaderMe from "../components/LoaderMe/LoaderMe";
+import LoaderMe from "../componenst/LoaderMe/LoaderMe";
 
 const AboutMe = () => {
   return (
